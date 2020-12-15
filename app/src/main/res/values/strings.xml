@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyFirstFirebaseApplication</string>
+    <string name="note_title">Título</string>
+    <string name="note_body">Cuerpo de la nota</string>
+    <string name="add_note">Agregar nota</string>
+    <string name="notes">Notas</string>
+    <string name="field_error">Este campo no puede estar vacío</string>
+    <string name="error">Error, intente más tarde</string>
+    <string name="edit_successful">Nota editada con exíto</string>
+    <string name="delete_successful">Nota eliminada con exíto</string>
+    <string name="not_found_notes">No se encontrarón notas</string>
+    <string name="add_successful">Nota agregada con exíto</string>
+    <string name="edit_note">Editar nota</string>
+    <string name="delete_note">Eliminar nota</string>
+</resources>
